@@ -1,5 +1,3 @@
-Hope this works
-
 This project consists of the following files, to be run in the following order
 1. repfile_1.r: Create geographic variables 
 2. Table2.R: Replicating Table 2 - Main Results
