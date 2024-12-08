@@ -1,5 +1,5 @@
 #######################################
-#
+# From the replication package - 
 # Functions to calculate difference distance metrics
 # Based on Banerjee, 2005, Biometrika, "Geodetic Computations in Spatial Modeling"
 #
