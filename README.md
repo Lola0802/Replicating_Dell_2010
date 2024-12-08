@@ -1,3 +1,5 @@
+For this project, I explored long-term economic development through the lens of colonial institutions, specifically replicating and extending Dell's (2010) study on the Mita system's lasting impact on modern economic outcomes in Peru. Utilizing spatial regression discontinuity design (RDD), I verified Dell's findings and conducted additional robustness tests using advanced non-parametric methods. This project showcases my expertise in applying complex econometric techniques to analyze historical data and institutional persistence, contributing to development economics research.
+
 This project consists of the following files, to be run in the following order
 1. repfile_1.r: Create geographic variables 
 2. Table2.R: Replicating Table 2 - Main Results
