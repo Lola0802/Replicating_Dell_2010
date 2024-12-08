@@ -46,7 +46,7 @@ lapply(dependencies, library, character.only = TRUE) # loads all packages from d
 setwd("/Users/BRAJENDRA2/Courses/CausalInference/Term Paper/Submission/") # Please insert your individual path here, if needed
 
 # (0.1) Creating Geospatial variables -----------------------------------
-# The author created these input files with GIS software. Since I do not have access to them, I use the files directly as provided in the replication package. 
+# The author created these input files with GIS software. Since I do not have access to them, I use the files provided in the replication package. 
 
 # The output from this section is required for creating all the other tables. There are two files we want, gis_dist.dta/gis_dist.rda and gis_grid.dta/gis_grid.rds # TODO: Compare with already existing gis_dist and gis_grid.dta files by exporting dta using haven and show results
 
