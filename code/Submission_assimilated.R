@@ -6,7 +6,7 @@
 
 # Author: Lolakshi Rajlakshmi (12339702)
 
-# This project consists of 3 files, to be run in the following order
+# This project consists of these files, to be run in the following order
 # 1. repfile_1.r: Create geographic variables 
 # 2. Table2.R: Replicating Table 2 - Main Results
 # 3. Table5.R: Replicating Table 5 - 1572 tribute and Population
